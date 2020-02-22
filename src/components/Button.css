@@ -1,0 +1,17 @@
+.button{
+    background-color: rgb(157, 179, 212);
+    display: flex;
+    height: 4em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    color: #000000;
+    outline: 1px solid #234;
+}
+
+.operator{
+    background-color: rgb(243, 191, 50);
+    color: #000000;
+}
